@@ -6,10 +6,9 @@
 
 I realized on the existing code we did not have "Alt" on the images so we added in the 6 images along the code. 
 
->### Reforming classes
+>### Regrouping classes
 
-.benefit-lead, .benefit-brand, .benefit-cost were grouped together as they had the same attributes
-
+Classes that had the same attributes were localized in the original code to unify them into one and not have the same attributes in different classes
 
 >### Name changed 
 
